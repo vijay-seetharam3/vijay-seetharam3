@@ -70,9 +70,19 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://github.com/vijay-seetharam3"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-<a href="https://www.linkedin.com/in/vijay-seetharam-456a44265"><img src="https://skillicons.dev/icons?i=LinkedIn" width="40"/></a>
+
+<!-- GitHub -->
+<a href="https://github.com/vijay-seetharam3" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vijay-seetharam-456a44265" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
 </p>
+
 
 ---
 ⭐ *Thanks for visiting! Feel free to explore my repositories and connect.*  
