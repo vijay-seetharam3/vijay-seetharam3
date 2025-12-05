@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h1 align="center">Hi 👋, I'm Vijay Seetharam</h1>
 <h3 align="center">A Passionate Developer Exploring Java, Python, Web, and Blockchain</h3>
 
 ---
