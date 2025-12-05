@@ -39,7 +39,7 @@
 | Technology | Level |
 |-----------|-------|
 | **Java** | ![Java level](https://img.shields.io/badge/Expert-90%25-darkgreen) |
-| **Python** | ![Python level](https://img.shields.io/badge/Advanced-80%25-green) |
+| **Python** | ![Python level](https://img.shields.io/badge/Expert-90%25-darkgreen) |
 | **JavaScript** | ![JS level](https://img.shields.io/badge/Intermediate-65%25-yellow) |
 | **Solidity** | ![Solidity level](https://img.shields.io/badge/Learning-40%25-orange) |
 
