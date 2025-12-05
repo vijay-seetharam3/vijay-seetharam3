@@ -1,38 +1,84 @@
-# 👋 Hi, I’m Vijay (vijay-seetharam3)
-
-## 🔭 About Me  
-I am a software developer who loves building projects in **Java, Python, web-technologies, and blockchain**. I enjoy learning new technologies and applying them to solve real-world problems.  
-I’m always open to collaborating on interesting projects and learning from others.
-
-## 🛠️ Skills & Tech Stack  
-- **Languages:** Java, Python, JavaScript, Solidity  
-- **Frameworks / Tools:** Spring, Web (HTML/CSS/JS), Blockchain development  
-- **Other Interests:** Smart contracts, backend development, open source projects  
-
-## 📂 My Projects  
-Here are some of my publicly available repositories:  
-- **Html-Project** — A simple HTML / front-end project  
-- **Python-Project** — Python-based project(s)  
-- **Java-projects** — Collection of Java projects  
-- **Java-script_project** — JS / Web projects  
-- **Spring-Project** — Java + Spring projects  
-- **blockchain** — Blockchain / Solidity related work  
-
-*(More projects are available — check out my repositories tab 👇)*
-
-## 🌱 Currently Learning  
-- Advanced blockchain & smart-contract development  
-- Latest web technologies and modern backend frameworks  
-
-## ✅ What I’m Looking For  
-- Collaboration in open-source projects  
-- Interesting backend / blockchain / full-stack assignments  
-- Opportunities to learn and grow  
-
-## 📫 Connect with me  
-- GitHub: [github.com/vijay-seetharam3](https://github.com/vijay-seetharam3)  
-- (Add any other social/dev links here — e.g. LinkedIn, Twitter, personal website)  
+<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h3 align="center">A Passionate Developer Exploring Java, Python, Web, and Blockchain</h3>
 
 ---
 
-💡 **Fun fact:** I believe in continuous learning — every project is an opportunity to learn, improve, and contribute back.  
+## 🚀 About Me
+- 🔭 I work with **Java, Python, JavaScript, Spring, and Blockchain**
+- 🌱 Currently learning **Smart Contracts & Advanced Backend**
+- 👯 Open to collaborating on **full-stack, backend, or blockchain** projects
+- 💬 Ask me about **Java, Python, JS, Blockchain, Web Development**
+- 📫 Reach me at: **github.com/vijay-seetharam3**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=java" width="50" />
+<img src="https://skillicons.dev/icons?i=python" width="50" />
+<img src="https://skillicons.dev/icons?i=javascript" width="50" />
+<img src="https://skillicons.dev/icons?i=solidity" width="50" />
+
+<!-- Frameworks & Tools -->
+<img src="https://skillicons.dev/icons?i=spring" width="50" />
+<img src="https://skillicons.dev/icons?i=html" width="50" />
+<img src="https://skillicons.dev/icons?i=css" width="50" />
+<img src="https://skillicons.dev/icons?i=git" width="50" />
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+
+</p>
+
+---
+
+## 📊 Skill Visualization
+
+### 🔹 Programming Languages
+| Technology | Level |
+|-----------|-------|
+| **Java** | ![Java level](https://img.shields.io/badge/Expert-90%25-darkgreen) |
+| **Python** | ![Python level](https://img.shields.io/badge/Advanced-80%25-green) |
+| **JavaScript** | ![JS level](https://img.shields.io/badge/Intermediate-65%25-yellow) |
+| **Solidity** | ![Solidity level](https://img.shields.io/badge/Learning-40%25-orange) |
+
+---
+
+### 🔹 Frameworks / Tools
+| Technology | Level |
+|-----------|-------|
+| **Spring Boot** | ![SB level](https://img.shields.io/badge/Intermediate-60%25-yellow) |
+| **HTML / CSS** | ![Frontend level](https://img.shields.io/badge/Advanced-85%25-green) |
+| **Git & GitHub** | ![Git level](https://img.shields.io/badge/Advanced-80%25-green) |
+| **Blockchain** | ![Blockchain level](https://img.shields.io/badge/Intermediate-50%25-orange) |
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Java Projects** — Core & advanced Java  
+- 🔹 **Python Projects** — Scripts & applications  
+- 🔹 **Spring Project** — Backend with Spring Boot  
+- 🔹 **Blockchain** — Solidity & smart contracts  
+- 🔹 **JavaScript Projects** — Web interactive apps  
+
+> 👉 Check all repositories here: **https://github.com/vijay-seetharam3?tab=repositories**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vijay-seetharam3&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-seetharam3&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+<a href="https://github.com/vijay-seetharam3"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
+---
+⭐ *Thanks for visiting! Feel free to explore my repositories and connect.*  
